@@ -1,9 +1,5 @@
 <?php
-/**
- * CREATE : M34L@Ismail Muhammad Zeindy
- * GANTI TULISAN SEMOGA MATI MENDADAK LO AJG
- * Special Thanks To : Setya Mickala as SHARE AIRDROP
- */
+
 awal:
 echo "Berapa Banyak? ";
 $count = trim(fgets(STDIN));
